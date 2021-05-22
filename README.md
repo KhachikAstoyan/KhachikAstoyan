@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhachikAstoyan
 - 👀 I’m interested in web development and computer science
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** **Node.js**, **Express**, **MongoDB**, **TypeScript**
 - 📫 How to reach me **khachik.astoyan228@gmail.com**
 
 <!---
