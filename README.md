@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Khachik Astoyan 👨‍💻
 
-I am a software engineer currently working at [Grid Dynamics](https://www.griddynamics.com/). I'm passionate about learning new things, building and tinkering with random things :)
+I am a software engineer currently working at [Grid Dynamics](https://www.griddynamics.com/).
 
 
 ## 📫 Get in touch
