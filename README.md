@@ -11,8 +11,7 @@ I am a software engineer currently working at [Grid Dynamics](https://www.griddy
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,go,rust,java,c,cpp,bash,react,tailwind,express,vite,nest" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,gcp,docker,k8s,linux" />
+    <img src="https://skillicons.dev/icons?perline=12&i=html,css,js,ts,go,rust,java,c,cpp,bash,react,tailwind,express,vite,nest,git,gcp,docker,k8s,linux,rabbitmq" /><br/>
   </a>
 </p>
 
